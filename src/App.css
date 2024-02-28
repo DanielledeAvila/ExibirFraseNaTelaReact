@@ -1,0 +1,17 @@
+* {
+    margin: 30px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+h1{
+    height: 5vh;
+    width: 100%;
+    color:palevioletred;
+    display: flex;
+    justify-content:center;
+    align-items:center;  
+
+}
+
